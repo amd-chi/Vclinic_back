@@ -1,0 +1,96 @@
+{
+  "status": 200,
+  "family": "SUCCESSFUL",
+  "reason": "OK",
+  "data": {
+    "total": 1,
+    "list": [
+      {
+        "noteDetailsEprscId": 6235778048,
+        "srvId": {
+          "srvId": 65236,
+          "srvType": {
+            "srvType": "01",
+            "srvTypeDes": "دارويي",
+            "status": "1",
+            "statusstDate": "13940101",
+            "custType": "3",
+            "prescTypeId": 1,
+            "headExpireDate": 62
+          },
+          "srvCode": "52202",
+          "srvName": "VASELIN OFFECINAL 100 g OINTMENT TOPICAL",
+          "srvName2": null,
+          "srvBimSw": null,
+          "srvSex": null,
+          "srvPrice": 0,
+          "srvPriceDate": "13980216",
+          "doseCode": null,
+          "formCode": {
+            "formCode": "20",
+            "formDes": "OINTMENT",
+            "formGrp": null,
+            "status": "1",
+            "statusstDate": "20020101"
+          },
+          "parTarefGrp": null,
+          "status": "2",
+          "statusstDate": "14001110",
+          "bGType": "1",
+          "gSrvCode": "52202",
+          "agreementFlag": null,
+          "isDeleted": "0",
+          "visible": "1",
+          "dentalServiceType": null,
+          "wsSrvCode": "60672",
+          "hosprescType": "0",
+          "countIsRestricted": null,
+          "terminology": null,
+          "srvCodeComplete": "0000052202"
+        },
+        "srvQty": 1,
+        "srvRem": 1,
+        "srvPrice": 0,
+        "timesAday": {
+          "drugAmntId": 204,
+          "drugAmntCode": "204",
+          "drugAmntSumry": "Inhalation\n",
+          "drugAmntLatin": "2 Puff",
+          "drugAmntConcept": "2 پاف-Inhalation\n",
+          "visibled": "1"
+        },
+        "dose": null,
+        "doseCode": null,
+        "repeat": null,
+        "isBrand": null,
+        "dateDo": null,
+        "isOk": "0",
+        "drugInstruction": {
+          "drugInstId": 61,
+          "drugInstCode": "61",
+          "drugInstSumry": null,
+          "drugInstLatin": null,
+          "drugInstConcept": "دو بار در روز"
+        },
+        "isPayable": null,
+        "organId": null,
+        "organDesc": null,
+        "illnessId": null,
+        "illnessDesc": null,
+        "planId": null,
+        "planDesc": null,
+        "organDet": null,
+        "organDetDesc": null,
+        "confirmStatusflag": null,
+        "drugAmntId": 204,
+        "drugInstId": 61,
+        "isDentalService": null,
+        "noteHeadEprscId": null,
+        "toothId": null,
+        "referenceStatus": 0,
+        "repeatDays": null,
+        "readOnly": false
+      }
+    ]
+  }
+}

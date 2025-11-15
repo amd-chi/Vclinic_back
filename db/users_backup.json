@@ -1,0 +1,86 @@
+[
+  {
+    "model": "user.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$frwSAqDUsQLm7AHI4ABiDL$HQvOT5ih3a0uLSUyjbG9yJjo7Fvbb/bCINwIIOnUC7A=",
+      "email": "testali.1380@gmail.com",
+      "first_name": "",
+      "last_name": "",
+      "address": "",
+      "phone_number": "",
+      "national_id": "",
+      "role": "admin",
+      "is_active": true,
+      "is_staff": true,
+      "is_superuser": true,
+      "date_joined": "2024-11-12T16:01:24.547Z",
+      "last_login": "2024-11-23T09:32:58.101Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "user.user",
+    "pk": 2,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$PUnFMTHmn3XfwuPMO8XzgG$4kT7u5ddgkIgsO0TCkPzx0Hyp2LBm4zr8z/dwFg/8ls=",
+      "email": "me.chitsazan@gmail.com",
+      "first_name": "محسن",
+      "last_name": "چیت سازان",
+      "address": "a",
+      "phone_number": "09121218701",
+      "national_id": "1283123",
+      "role": "doctor",
+      "is_active": true,
+      "is_staff": true,
+      "is_superuser": false,
+      "date_joined": "2024-11-13T10:34:18.265Z",
+      "last_login": "2024-11-13T10:34:23.007Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "user.user",
+    "pk": 3,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$SiXriS353IXoPoQNJD0yZ0$Lp8gCdPHygVf3P8cfEokr+xRRnShVSh5N6qWofFPTvQ=",
+      "email": "am.chitsazan@gmail.com",
+      "first_name": "احمد",
+      "last_name": "چیت سازان",
+      "address": "a",
+      "phone_number": "09122799288",
+      "national_id": "21983138",
+      "role": "doctor",
+      "is_active": true,
+      "is_staff": true,
+      "is_superuser": true,
+      "date_joined": "2024-11-13T10:35:04.533Z",
+      "last_login": "2024-11-23T09:33:07.755Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "user.user",
+    "pk": 4,
+    "fields": {
+      "password": "pbkdf2_sha256$720000$2QAex8LQAc5dkdGaiM2Q5g$kDQAD3A44QV37rSMUoNiO0KQ/Sud43h4p4WHq2HiSWw=",
+      "email": "adeljahed@gmail.com",
+      "first_name": "سید عادل",
+      "last_name": "جاهد",
+      "address": "تهران",
+      "phone_number": "09122370907",
+      "national_id": "1285767829",
+      "role": "doctor",
+      "is_active": true,
+      "is_staff": true,
+      "is_superuser": false,
+      "date_joined": "2024-11-13T10:37:09.687Z",
+      "last_login": "2024-11-24T17:43:12.917Z",
+      "groups": [],
+      "user_permissions": []
+    }
+  }
+]

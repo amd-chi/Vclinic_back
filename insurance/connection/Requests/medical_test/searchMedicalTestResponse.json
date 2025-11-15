@@ -1,0 +1,51 @@
+{
+  "status": 200,
+  "family": "SUCCESSFUL",
+  "reason": "OK",
+  "data": {
+    "total": 1,
+    "list": [
+      {
+        "srvId": 124362,
+        "srvType": {
+          "srvType": "02",
+          "srvTypeDes": "آزمايشگاه",
+          "status": "1",
+          "statusstDate": "13940101",
+          "custType": "4",
+          "prescTypeId": 2,
+          "headExpireDate": 62
+        },
+        "srvCode": "807005-275",
+        "srvName": "447375004-نمونه مايع بدن به دست آمده از لوله قفسه سينه (نمونه)",
+        "srvName2": "447375004-Body fluid specimen obtained via chest tube (specimen)",
+        "srvBimSw": "1",
+        "srvSex": null,
+        "srvPrice": 335615,
+        "srvPriceDate": "14000226",
+        "doseCode": null,
+        "formCode": null,
+        "parTarefGrp": {
+          "parGrpCode": "001",
+          "parGrpDesc": "آسيب شناسي",
+          "parGrpRem": "1",
+          "status": "1",
+          "statusStDate": "13830101"
+        },
+        "status": "1",
+        "statusstDate": "14010231",
+        "bGType": null,
+        "gSrvCode": null,
+        "agreementFlag": null,
+        "isDeleted": "0",
+        "visible": null,
+        "dentalServiceType": null,
+        "wsSrvCode": "807005-275",
+        "hosprescType": null,
+        "countIsRestricted": null,
+        "terminology": null,
+        "srvCodeComplete": "807005-275"
+      }
+    ]
+  }
+}

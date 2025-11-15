@@ -1,0 +1,52 @@
+{
+  "noteDetailEprscs": [
+    {
+      "srvRem": 1,
+      "noteDetailsEprscId": 0,
+      "srvId": { "srvId": 84352, "srvType": {} },
+      "srvQty": 1,
+      "srvPrice": 1042744,
+      "noteHeadEprscId": 1,
+      "dateDo": "14030425",
+      "isOk": "0",
+      "drugInstId": 0,
+      "drugAmntId": 0,
+      "organDesc": "",
+      "illnessDesc": null,
+      "planDesc": null,
+      "organDetDesc": null,
+      "confirmStatusflag": null,
+      "toothId": "",
+      "status": "",
+      "statusstDate": "",
+      "visible": "",
+      "referenceStatus": 0
+    }
+  ],
+  "deserveInfo": {
+    "gender": "مرد",
+    "hasDesert": false,
+    "insuranceType": " ",
+    "patientBirthDate": "1354",
+    "risuid": "0023107164",
+    "trackingCode": "4839470503"
+  },
+  "isSaveEprsc": "0",
+  "supplementaryInsurance": {},
+  "fName": "اميد",
+  "lName": "فدائي منش",
+  "mobile": "09120000000",
+  "birthDate": "1975-03-20T20:30:00.000Z",
+  "patient": "0491507178",
+  "insuranceState": "1",
+  "prescDate": "1720163432626",
+  "expireDate": "1725363432626",
+  "confirmStatus": "0",
+  "creatorType": "3",
+  "regStatus": "1",
+  "prescType": { "prescTypeId": 2 },
+  "comments": null,
+  "noteHeadEprscId": 0,
+  "docClinic": null,
+  "isSpecialPatient": 1
+}

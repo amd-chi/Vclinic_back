@@ -1,0 +1,216 @@
+{
+  "noteDetailEprscs": [
+    {
+      "srvRem": 1,
+      "noteDetailsEprscId": 0,
+      "timesAday": {
+        "drugAmntCode": "174",
+        "drugAmntConcept": "يک عدد-Tab/Cap\n",
+        "drugAmntId": 174,
+        "drugAmntLatin": "1",
+        "drugAmntSumry": "Tab/Cap\n",
+        "visibled": "1"
+      },
+      "drugInstruction": {
+        "drugInstCode": "60",
+        "drugInstConcept": "يک بار در روز",
+        "drugInstId": 60,
+        "drugInstLatin": null,
+        "drugInstSumry": null
+      },
+      "srvId": {
+        "srvId": 62314,
+        "wsSrvCode": "01144",
+        "srvType": {
+          "srvType": "01"
+        }
+      },
+      "srvQty": 1,
+      "srvPrice": 0,
+      "dose": null,
+      "doseCode": 0,
+      "repeat": null,
+      "isBrand": null,
+      "noteHeadEprscId": 1,
+      "isOk": "0",
+      "drugInstId": 0,
+      "drugAmntId": 0,
+      "organDesc": "",
+      "illnessDesc": null,
+      "planDesc": null,
+      "organDetDesc": null,
+      "confirmStatusflag": null,
+      "toothId": "",
+      "status": "",
+      "statusstDate": "",
+      "visible": "",
+      "referenceStatus": 0
+    },
+    {
+      "srvRem": 1,
+      "noteDetailsEprscId": 0,
+      "timesAday": {
+        "drugAmntCode": "174",
+        "drugAmntConcept": "يک عدد-Tab/Cap\n",
+        "drugAmntId": 174,
+        "drugAmntLatin": "1",
+        "drugAmntSumry": "Tab/Cap\n",
+        "visibled": "1"
+      },
+      "drugInstruction": {
+        "drugInstCode": "60",
+        "drugInstConcept": "يک بار در روز",
+        "drugInstId": 60,
+        "drugInstLatin": null,
+        "drugInstSumry": null
+      },
+      "srvId": {
+        "srvId": 62818,
+        "wsSrvCode": "02336",
+        "srvType": {
+          "srvType": "01"
+        }
+      },
+      "srvQty": 1,
+      "srvPrice": 0,
+      "dose": null,
+      "doseCode": 0,
+      "repeat": null,
+      "isBrand": null,
+      "noteHeadEprscId": 1,
+      "isOk": "0",
+      "drugInstId": 0,
+      "drugAmntId": 0,
+      "organDesc": "",
+      "illnessDesc": null,
+      "planDesc": null,
+      "organDetDesc": null,
+      "confirmStatusflag": null,
+      "toothId": "",
+      "status": "",
+      "statusstDate": "",
+      "visible": "",
+      "referenceStatus": 0
+    },
+    {
+      "srvRem": 1,
+      "noteDetailsEprscId": 0,
+      "timesAday": {
+        "drugAmntCode": "183",
+        "drugAmntConcept": "يک عدد-INJ\n",
+        "drugAmntId": 183,
+        "drugAmntLatin": "1",
+        "drugAmntSumry": "INJ\n",
+        "visibled": "1"
+      },
+      "drugInstruction": {
+        "drugInstCode": "60",
+        "drugInstConcept": "يک بار در روز",
+        "drugInstId": 60,
+        "drugInstLatin": null,
+        "drugInstSumry": null
+      },
+      "srvId": {
+        "srvId": 62739,
+        "wsSrvCode": "02091",
+        "srvType": {
+          "srvType": "01"
+        }
+      },
+      "srvQty": 1,
+      "srvPrice": 0,
+      "dose": "با معده پر (بعد از غذا)",
+      "doseCode": 1,
+      "repeat": null,
+      "isBrand": null,
+      "noteHeadEprscId": 1,
+      "isOk": "0",
+      "drugInstId": 0,
+      "drugAmntId": 0,
+      "organDesc": "",
+      "illnessDesc": null,
+      "planDesc": null,
+      "organDetDesc": null,
+      "confirmStatusflag": null,
+      "toothId": "",
+      "status": "",
+      "statusstDate": "",
+      "visible": "",
+      "referenceStatus": 0
+    },
+    {
+      "srvRem": 1,
+      "noteDetailsEprscId": 0,
+      "timesAday": {
+        "drugAmntCode": "183",
+        "drugAmntConcept": "يک عدد-INJ\n",
+        "drugAmntId": 183,
+        "drugAmntLatin": "1",
+        "drugAmntSumry": "INJ\n",
+        "visibled": "1"
+      },
+      "drugInstruction": {
+        "drugInstCode": "60",
+        "drugInstConcept": "يک بار در روز",
+        "drugInstId": 60,
+        "drugInstLatin": null,
+        "drugInstSumry": null
+      },
+      "srvId": {
+        "srvId": 62090,
+        "wsSrvCode": "00822",
+        "srvType": {
+          "srvType": "01"
+        }
+      },
+      "srvQty": 1,
+      "srvPrice": 0,
+      "dose": "با معده پر (بعد از غذا)",
+      "doseCode": 1,
+      "repeat": null,
+      "isBrand": null,
+      "noteHeadEprscId": 1,
+      "isOk": "0",
+      "drugInstId": 0,
+      "drugAmntId": 0,
+      "organDesc": "",
+      "illnessDesc": null,
+      "planDesc": null,
+      "organDetDesc": null,
+      "confirmStatusflag": null,
+      "toothId": "",
+      "status": "",
+      "statusstDate": "",
+      "visible": "",
+      "referenceStatus": 0
+    }
+  ],
+  "isSaveEprsc": "0",
+  "supplementaryInsurance": {},
+  "deserveInfo": {
+    "gender": "زن",
+    "hasDesert": true,
+    "insuranceType": "اجباري",
+    "patientBirthDate": "1390",
+    "risuid": "0o14551557",
+    "trackingCode": "4767182140"
+  },
+  "fName": "ضحا",
+  "lName": "چيت سازان",
+  "mobile": "09120000000",
+  "birthDate": "2011-03-20T20:30:00.000Z",
+  "patient": "0442005921",
+  "insuranceState": "1",
+  "prescDate": "1718346088276",
+  "expireDate": "1723546088276",
+  "confirmStatus": "0",
+  "creatorType": "3",
+  "regStatus": "1",
+  "prescType": {
+    "prescTypeId": 1
+  },
+  "comments": "salam seyyed",
+  "noteHeadEprscId": 0,
+  "docClinic": null,
+  "isSpecialPatient": 1
+}

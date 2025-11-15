@@ -1,0 +1,70 @@
+{
+  "noteDetailEprscs": [
+    {
+      "srvRem": 2,
+      "noteDetailsEprscId": 0,
+      "timesAday": {
+        "drugAmntCode": "200",
+        "drugAmntConcept": "2 پاف-Nasal Spray\n",
+        "drugAmntId": 200,
+        "drugAmntLatin": "2 Puff",
+        "drugAmntSumry": "Nasal Spray\n",
+        "visibled": "1"
+      },
+      "drugInstruction": {
+        "drugInstCode": "61",
+        "drugInstConcept": "دو بار در روز",
+        "drugInstId": 61,
+        "drugInstLatin": null,
+        "drugInstSumry": null
+      },
+      "srvId": { "srvId": 65291, "srvType": { "srvType": "01" } },
+      "srvQty": 2,
+      "srvPrice": 0,
+      "repeat": "",
+      "noteHeadEprscId": 1,
+      "isOk": "0",
+      "drugInstId": 0,
+      "drugAmntId": 0,
+      "organDesc": "",
+      "illnessDesc": null,
+      "planDesc": null,
+      "organDetDesc": null,
+      "confirmStatusflag": null,
+      "toothId": "",
+      "status": "",
+      "statusstDate": "",
+      "visible": "",
+      "referenceStatus": 0,
+      "noteDetailDrug": { "diagnosisID": { "icdId": "" } }
+    }
+  ],
+  "noteHeadEprscSupplementary": { "complaintIDs": "210" },
+  "isSaveEprsc": "0",
+  "supplementaryInsurance": {},
+  "deserveInfo": {
+    "gender": "زن",
+    "hasDesert": false,
+    "insuranceType": "اجباري",
+    "patientBirthDate": "1356",
+    "risuid": "cl00035336",
+    "trackingCode": "6502493816"
+  },
+  "fName": "مريم",
+  "lName": "چيت سازان",
+  "mobile": "09120000000",
+  "birthDate": "1977-03-20T20:30:00.000Z",
+  "patient": "0072848571",
+  "insuranceState": "1",
+  "prescDate": "1756660807512",
+  "expireDate": "1761860807512",
+  "confirmStatus": "0",
+  "creatorType": "3",
+  "regStatus": "1",
+  "prescType": { "prescTypeId": 1 },
+  "comments": null,
+  "noteHeadEprscId": 0,
+  "isLMP": false,
+  "docClinic": null,
+  "isSpecialPatient": 1
+}

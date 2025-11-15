@@ -1,0 +1,44 @@
+{
+  "status": 200,
+  "family": "SUCCESSFUL",
+  "reason": "OK",
+  "data": {
+    "total": 2779,
+    "list": [
+      {
+        "srvId": 62218,
+        "srvType": {
+          "srvType": "01",
+          "srvTypeDes": "دارويي",
+          "status": "1",
+          "statusstDate": "13940101",
+          "custType": "3",
+          "prescTypeId": 1,
+          "headExpireDate": 62
+        },
+        "srvCode": "01003",
+        "srvName": "VITAMIN K1 (PHYTOMENADIONE) 10MG/ML AMP",
+        "srvName2": null,
+        "srvBimSw": "1",
+        "srvSex": null,
+        "srvPrice": 37900,
+        "srvPriceDate": "13970523",
+        "doseCode": "142",
+        "parTarefGrp": null,
+        "status": "1",
+        "statusstDate": "13840101",
+        "bGType": "1",
+        "gSrvCode": null,
+        "agreementFlag": null,
+        "isDeleted": null,
+        "visible": "1",
+        "dentalServiceType": null,
+        "wsSrvCode": "01003",
+        "hosprescType": "0",
+        "countIsRestricted": null,
+        "terminology": null,
+        "srvCodeComplete": "0000001003"
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "insulins_short_acting": [
+    "NPH",
+    "Lantus",
+    "Detemir",
+    "Novomix",
+    "Toujeo",
+    "Abasaglar"
+  ],
+  "insulins_long_acting": ["Aspart", "Apidra", "Regular", "PreMix", "Humalog"],
+  "None": ["Ryzodeg"]
+}

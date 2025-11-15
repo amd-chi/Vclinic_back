@@ -1,0 +1,156 @@
+{
+  "resCode": 1,
+  "resMessage": "اقلام  نسخه با موفقیت دریافت شد.",
+  "info": [
+    {
+      "refType": "دارو",
+      "serviceNN": -81177,
+      "fullName": "- VITAMIN B6 - <JALINOUS PHARMACEUTICAL CO.>  BLISTER 10*10",
+      "subType": "Order",
+      "consumption": {
+        "cnsmpt": "۱ بار در روز",
+        "each": "1.0",
+        "route": null,
+        "event": null,
+        "unit": "A",
+        "cnsmptKey": "*"
+      },
+      "desc": "بدون توضیحات",
+      "noRequest": 1,
+      "moreInfo": {
+        "bulk": {}
+      },
+      "totalAmount": 0,
+      "coveredAmount": 0,
+      "dlvcnt": 0,
+      "dlvcntNRX": 0,
+      "orderItemId": "0d15375360b518897b33ad8643a8d74af7c0a9f8fa8fb67dfbb0c4f0e18d4c0a3603f70d3d7a177af3940adafd971aea701a0e2a39e8d3a809056c095f574120ac22425120635e21",
+      "type": "DRG"
+    },
+    {
+      "refType": "دارو",
+      "serviceNN": -81177,
+      "fullName": "- VITAMIN B6 - <JALINOUS PHARMACEUTICAL CO.>  BLISTER 10*10",
+      "subType": "Order",
+      "consumption": {
+        "cnsmpt": "۱ بار در روز",
+        "each": "1.0",
+        "route": null,
+        "event": null,
+        "unit": "A",
+        "cnsmptKey": "*"
+      },
+      "desc": "بدون توضیحات",
+      "noRequest": 1,
+      "moreInfo": {
+        "bulk": {}
+      },
+      "totalAmount": 0,
+      "coveredAmount": 0,
+      "dlvcnt": 0,
+      "dlvcntNRX": 0,
+      "orderItemId": "0d15375360b518897b33ad8643a8d74af7c0a9f8fa8fb67dfbb0c4f0e18d4c0a3603f70d3d7a177af3940adafd971aea701a0e2a39e8d3a809056c095f574120ac22425120635e21",
+      "type": "DRG"
+    },
+    {
+      "refType": "دارو",
+      "serviceNN": -81177,
+      "fullName": "- VITAMIN B6 - <JALINOUS PHARMACEUTICAL CO.>  BLISTER 10*10",
+      "subType": "Order",
+      "consumption": {
+        "cnsmpt": "۱ بار در روز",
+        "each": "1.0",
+        "route": null,
+        "event": null,
+        "unit": "A",
+        "cnsmptKey": "*"
+      },
+      "desc": "بدون توضیحات",
+      "noRequest": 1,
+      "moreInfo": {
+        "bulk": {}
+      },
+      "totalAmount": 0,
+      "coveredAmount": 0,
+      "dlvcnt": 0,
+      "dlvcntNRX": 0,
+      "orderItemId": "0d15375360b518897b33ad8643a8d74af7c0a9f8fa8fb67dfbb0c4f0e18d4c0a3603f70d3d7a177af3940adafd971aea701a0e2a39e8d3a809056c095f574120ac22425120635e21",
+      "type": "DRG"
+    },
+    {
+      "refType": "دارو",
+      "serviceNN": -52312,
+      "fullName": "-ACETAMINOPHEN / CODEINE PHOSPHATE TABLET ORAL 300 MG/10 MG",
+      "subType": "Order",
+      "consumption": {
+        "cnsmpt": "هر ۳ ساعت",
+        "each": "1.0",
+        "route": "بوکال",
+        "event": null,
+        "unit": "A",
+        "cnsmptKey": "A"
+      },
+      "desc": "بدون توضیحات",
+      "noRequest": 1,
+      "moreInfo": {
+        "bulk": {}
+      },
+      "totalAmount": 0,
+      "coveredAmount": 0,
+      "dlvcnt": 0,
+      "dlvcntNRX": 0,
+      "orderItemId": "0d15375360b518897b33ad8643a8d74af7c0a9f8fa8fb67dfbb0c4f0e18d4c0a3603f70d3d7a177af3940adafd971aea17a8e6a7c2a958477d2a9e5097b818054f5485aded0eca9f",
+      "type": "DRG"
+    },
+    {
+      "refType": "دارو",
+      "serviceNN": -52312,
+      "fullName": "-ACETAMINOPHEN / CODEINE PHOSPHATE TABLET ORAL 300 MG/10 MG",
+      "subType": "Order",
+      "consumption": {
+        "cnsmpt": "هر ۳ ساعت",
+        "each": "1.0",
+        "route": "بوکال",
+        "event": null,
+        "unit": "A",
+        "cnsmptKey": "A"
+      },
+      "desc": "بدون توضیحات",
+      "noRequest": 1,
+      "moreInfo": {
+        "bulk": {}
+      },
+      "totalAmount": 0,
+      "coveredAmount": 0,
+      "dlvcnt": 0,
+      "dlvcntNRX": 0,
+      "orderItemId": "0d15375360b518897b33ad8643a8d74af7c0a9f8fa8fb67dfbb0c4f0e18d4c0a3603f70d3d7a177af3940adafd971aea17a8e6a7c2a958477d2a9e5097b818054f5485aded0eca9f",
+      "type": "DRG"
+    },
+    {
+      "refType": "دارو",
+      "serviceNN": -52312,
+      "fullName": "-ACETAMINOPHEN / CODEINE PHOSPHATE TABLET ORAL 300 MG/10 MG",
+      "subType": "Order",
+      "consumption": {
+        "cnsmpt": "هر ۳ ساعت",
+        "each": "1.0",
+        "route": "بوکال",
+        "event": null,
+        "unit": "A",
+        "cnsmptKey": "A"
+      },
+      "desc": "بدون توضیحات",
+      "noRequest": 1,
+      "moreInfo": {
+        "bulk": {}
+      },
+      "totalAmount": 0,
+      "coveredAmount": 0,
+      "dlvcnt": 0,
+      "dlvcntNRX": 0,
+      "orderItemId": "0d15375360b518897b33ad8643a8d74af7c0a9f8fa8fb67dfbb0c4f0e18d4c0a3603f70d3d7a177af3940adafd971aea17a8e6a7c2a958477d2a9e5097b818054f5485aded0eca9f",
+      "type": "DRG"
+    }
+  ]
+}

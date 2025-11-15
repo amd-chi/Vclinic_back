@@ -1,0 +1,289 @@
+{
+  "status": 200,
+  "family": "SUCCESSFUL",
+  "reason": "OK",
+  "data": {
+    "total": 31,
+    "list": [
+      {
+        "drugUsageId": 0,
+        "drugUsageCode": "0",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "سایر",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 1,
+        "drugUsageCode": "1",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "با معده پر (بعد از غذا)",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 2,
+        "drugUsageCode": "2",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": " با معده خالی (قبل از غذا)",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 3,
+        "drugUsageCode": "3",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "همراه با غذا",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 4,
+        "drugUsageCode": "4",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "ناشتا (نیم ساعت قبل صبحانه)",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 5,
+        "drugUsageCode": "5",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "زیرزبانی",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 6,
+        "drugUsageCode": "6",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "صبح ها",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 7,
+        "drugUsageCode": "7",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "عصر ها",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 8,
+        "drugUsageCode": "8",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "شب ها",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 9,
+        "drugUsageCode": "9",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "قبل از نهار و شام",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 10,
+        "drugUsageCode": "10",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "بعد از نهار و شام ",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 11,
+        "drugUsageCode": "11",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "موضعی بمالید",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 12,
+        "drugUsageCode": "12",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "شستشو دهید",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 13,
+        "drugUsageCode": "13",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "سر شستشو شود",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 14,
+        "drugUsageCode": "14",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "بدن شستشو شود",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 15,
+        "drugUsageCode": "15",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "سر / بدن شستشو شود",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 16,
+        "drugUsageCode": "16",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "چشم را شستشو دهید",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 17,
+        "drugUsageCode": "17",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "موضع را شستشو دهید",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 18,
+        "drugUsageCode": "18",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "شب بمالید صبح بشویید",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 19,
+        "drugUsageCode": "19",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "از گردن به پایین بمالید",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 20,
+        "drugUsageCode": "20",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "استعمال واژینال",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 21,
+        "drugUsageCode": "21",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "استعمال مقعدی",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 22,
+        "drugUsageCode": "22",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "اسپری شود",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 23,
+        "drugUsageCode": "23",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "در صورت نیاز",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 24,
+        "drugUsageCode": "24",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "طبق دستور",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 25,
+        "drugUsageCode": "25",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "عضلانی (im)-تزریق پس از تست",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 26,
+        "drugUsageCode": "26",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "(infu) انفوزیون وریدی ",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 27,
+        "drugUsageCode": "27",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "عضلانی (im)",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 28,
+        "drugUsageCode": "28",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "وریدی (iv)",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 29,
+        "drugUsageCode": "29",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "زیر پوستی (sc)",
+        "visible": "1",
+        "drugFormCode": null
+      },
+      {
+        "drugUsageId": 30,
+        "drugUsageCode": "30",
+        "drugUsageSumry": null,
+        "drugUsageLatin": null,
+        "drugUsageConcept": "داخل سرم",
+        "visible": "1",
+        "drugFormCode": null
+      }
+    ]
+  }
+}

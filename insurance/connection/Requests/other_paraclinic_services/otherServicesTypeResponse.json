@@ -1,0 +1,97 @@
+{
+  "status": 200,
+  "family": "SUCCESSFUL",
+  "reason": "OK",
+  "data": [
+    {
+      "srvType": "10",
+      "srvTypeDes": "گفتار درمانی",
+      "status": "1",
+      "statusstDate": "13940101",
+      "custType": "4",
+      "prescTypeId": 2,
+      "headExpireDate": 62
+    },
+    {
+      "srvType": "07",
+      "srvTypeDes": "پزشكی هسته‌ای",
+      "status": "1",
+      "statusstDate": "13940101",
+      "custType": "4",
+      "prescTypeId": 2,
+      "headExpireDate": 62
+    },
+    {
+      "srvType": "08",
+      "srvTypeDes": "رادیوتراپی",
+      "status": "1",
+      "statusstDate": "13940101",
+      "custType": "4",
+      "prescTypeId": 2,
+      "headExpireDate": 62
+    },
+    {
+      "srvType": "09",
+      "srvTypeDes": "ادیومتری",
+      "status": "1",
+      "statusstDate": "13940101",
+      "custType": "4",
+      "prescTypeId": 2,
+      "headExpireDate": 62
+    },
+    {
+      "srvType": "11",
+      "srvTypeDes": "آنژیوگرافی",
+      "status": "1",
+      "statusstDate": "13940101",
+      "custType": "4",
+      "prescTypeId": 2,
+      "headExpireDate": 62
+    },
+    {
+      "srvType": "12",
+      "srvTypeDes": "خدمات مکمل بر اقدامات تشخیصی",
+      "status": "1",
+      "statusstDate": "13940101",
+      "custType": "4",
+      "prescTypeId": 2,
+      "headExpireDate": 62
+    },
+    {
+      "srvType": "14",
+      "srvTypeDes": "سنجش تراکم استخوان",
+      "status": "1",
+      "statusstDate": "13940101",
+      "custType": "4",
+      "prescTypeId": 2,
+      "headExpireDate": 62
+    },
+    {
+      "srvType": "15",
+      "srvTypeDes": "دیالیز",
+      "status": "1",
+      "statusstDate": "13940101",
+      "custType": "4",
+      "prescTypeId": 2,
+      "headExpireDate": 62
+    },
+    {
+      "srvType": "19",
+      "srvTypeDes": "اوتیسم",
+      "status": "1",
+      "statusstDate": "14010501",
+      "custType": "4",
+      "prescTypeId": 2,
+      "headExpireDate": 62
+    },
+    {
+      "srvType": "18",
+      "srvTypeDes": "بینایی سنجی",
+      "status": "1",
+      "statusstDate": "14020511",
+      "custType": "4",
+      "prescTypeId": 2,
+      "headExpireDate": 62
+    }
+  ]
+}

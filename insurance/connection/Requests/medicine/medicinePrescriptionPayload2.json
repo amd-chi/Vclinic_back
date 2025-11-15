@@ -1,0 +1,74 @@
+{
+  "noteDetailEprscs": [
+    {
+      "srvRem": 2,
+      "noteDetailsEprscId": 0,
+      "timesAday": {
+        "drugAmntCode": "170",
+        "drugAmntConcept": "طبق دستور-",
+        "drugAmntId": 170,
+        "drugAmntLatin": "As Directed",
+        "drugAmntSumry": null,
+        "visibled": "1"
+      },
+      "drugInstruction": {
+        "drugInstCode": "79",
+        "drugInstConcept": "سالی یک بار",
+        "drugInstId": 79,
+        "drugInstLatin": null,
+        "drugInstSumry": null
+      },
+      "srvId": {
+        "srvId": 62428,
+        "srvType": {
+          "srvType": "01"
+        }
+      },
+      "srvQty": 2,
+      "srvPrice": 12000,
+      "repeat": "",
+      "noteHeadEprscId": 1,
+      "isOk": "0",
+      "drugInstId": 0,
+      "drugAmntId": 0,
+      "organDesc": "",
+      "illnessDesc": null,
+      "planDesc": null,
+      "organDetDesc": null,
+      "confirmStatusflag": null,
+      "toothId": "",
+      "status": "",
+      "statusstDate": "",
+      "visible": "",
+      "referenceStatus": 0
+    }
+  ],
+  "isSaveEprsc": "0",
+  "supplementaryInsurance": {},
+  "deserveInfo": {
+    "gender": "زن",
+    "hasDesert": true,
+    "insuranceType": "نويسندگان و پديدآورندگان كتاب و هنرمندان",
+    "patientBirthDate": "1356",
+    "risuid": "ao00542796",
+    "trackingCode": "4790460054"
+  },
+  "fName": "مريم",
+  "lName": "چيت سازان",
+  "mobile": "09120000000",
+  "birthDate": "1977-03-20T20:30:00.000Z",
+  "patient": "0072848571",
+  "insuranceState": "1",
+  "prescDate": "1718977260019",
+  "expireDate": "1724177260019",
+  "confirmStatus": "0",
+  "creatorType": "3",
+  "regStatus": "1",
+  "prescType": {
+    "prescTypeId": 1
+  },
+  "comments": null,
+  "noteHeadEprscId": 0,
+  "docClinic": null,
+  "isSpecialPatient": 1
+}

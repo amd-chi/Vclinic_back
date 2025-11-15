@@ -1,0 +1,66 @@
+{
+  "status": 200,
+  "family": "SUCCESSFUL",
+  "reason": "OK",
+  "data": {
+    "total": 529,
+    "list": [
+      {
+        "id": 203,
+        "code": 248418008,
+        "displayName": "زردي دست و پا",
+        "englishName": "Jaundiced appearance of limbs (finding)",
+        "terminology": " SNOMEDCT",
+        "status": "1"
+      },
+      {
+        "id": 204,
+        "code": 57676002,
+        "displayName": "درد مفاصل",
+        "englishName": "Joint pain (finding)",
+        "terminology": " SNOMEDCT",
+        "status": "1"
+      },
+      {
+        "id": 205,
+        "code": 271771009,
+        "displayName": "تورم مفاصل",
+        "englishName": "Joint swelling (finding)",
+        "terminology": " SNOMEDCT",
+        "status": "1"
+      },
+      {
+        "id": 206,
+        "code": 299330008,
+        "displayName": "وجود ژنو والگوم در معاينه",
+        "englishName": "Knee joint valgus deformity (finding)",
+        "terminology": " SNOMEDCT",
+        "status": "1"
+      },
+      {
+        "id": 208,
+        "code": 40979000,
+        "displayName": "عدم فعاليت فيزيکي",
+        "englishName": "Lack of exercise (finding)",
+        "terminology": " SNOMEDCT",
+        "status": "1"
+      },
+      {
+        "id": 209,
+        "code": 724386005,
+        "displayName": "ضايعات ناحيه تناسلي",
+        "englishName": "Lesion of genitalia (finding)",
+        "terminology": " SNOMEDCT",
+        "status": "1"
+      },
+      {
+        "id": 210,
+        "code": 214264003,
+        "displayName": "بي حالي",
+        "englishName": "Lethargy (finding)",
+        "terminology": " SNOMEDCT",
+        "status": "1"
+      }
+    ]
+  }
+}

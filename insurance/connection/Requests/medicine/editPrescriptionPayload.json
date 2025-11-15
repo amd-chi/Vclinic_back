@@ -1,0 +1,109 @@
+{
+  "noteDetailEprscs": [
+    {
+      "srvRem": "1",
+      "noteDetailsEprscId": 0,
+      "timesAday": {
+        "drugAmntCode": "190",
+        "drugAmntConcept": "یک قاشق چای خوری (2.5cc)-Syrup/Susp\n",
+        "drugAmntId": 190,
+        "drugAmntLatin": "2.5 cc (1 Tea Spoon)",
+        "drugAmntSumry": "Syrup/Susp\n",
+        "visibled": "1"
+      },
+      "drugInstruction": {
+        "drugInstCode": "65",
+        "drugInstConcept": "هر 6 ساعت",
+        "drugInstId": 65,
+        "drugInstLatin": null,
+        "drugInstSumry": null
+      },
+      "srvId": { "srvId": 63780, "srvType": { "srvType": "01" } },
+      "srvQty": "1",
+      "srvPrice": 0,
+      "repeat": null,
+      "noteHeadEprscId": 1,
+      "isOk": "0",
+      "drugInstId": 0,
+      "drugAmntId": 0,
+      "organDesc": "",
+      "illnessDesc": null,
+      "planDesc": null,
+      "organDetDesc": null,
+      "confirmStatusflag": null,
+      "toothId": "",
+      "status": "",
+      "statusstDate": "",
+      "visible": "",
+      "referenceStatus": 0
+    },
+    {
+      "srvRem": 5,
+      "noteDetailsEprscId": 6615505324,
+      "timesAday": {
+        "drugAmntId": 190,
+        "drugAmntConcept": "یک قاشق چای خوری (2.5cc)-Syrup/Susp\n"
+      },
+      "drugInstruction": {
+        "drugInstId": 62,
+        "drugInstConcept": "سه بار در روز"
+      },
+      "srvId": {
+        "srvId": 73512,
+        "wsSrvCode": "90001",
+        "srvType": { "srvType": "01" }
+      },
+      "srvQty": 5,
+      "srvPrice": 180000,
+      "dose": "",
+      "doseCode": "",
+      "repeat": null,
+      "isBrand": null,
+      "noteHeadEprscId": 1,
+      "isOk": "0",
+      "organId": null,
+      "drugInstId": 0,
+      "drugAmntId": 0,
+      "isPayable": null,
+      "organDesc": "",
+      "illnessId": null,
+      "illnessDesc": null,
+      "planId": null,
+      "planDesc": null,
+      "organDet": null,
+      "organDetDesc": null,
+      "confirmStatusflag": null,
+      "isDentalService": null,
+      "toothId": "",
+      "status": "",
+      "statusstDate": "",
+      "visible": "",
+      "referenceStatus": 0
+    }
+  ],
+  "supplementaryInsurance": {},
+  "deserveInfo": {
+    "gender": "مرد",
+    "hasDesert": true,
+    "insuranceType": "اجباري",
+    "patientBirthDate": "1352",
+    "risuid": "0012600638",
+    "trackingCode": "4877241187"
+  },
+  "fName": "محسن",
+  "lName": "چيت سازان",
+  "mobile": "09120000000",
+  "birthDate": "1973-03-20T20:30:00.000Z",
+  "patient": "0072459158",
+  "insuranceState": "1",
+  "prescDate": "1721120550624",
+  "expireDate": "1726320550624",
+  "confirmStatus": "0",
+  "creatorType": "3",
+  "regStatus": "1",
+  "prescType": { "prescTypeId": 1 },
+  "comments": "تشکر",
+  "noteHeadEprscId": 6615505323,
+  "docClinic": null,
+  "isSpecialPatient": 1
+}

@@ -1,0 +1,45 @@
+{
+  "status": 200,
+  "family": "SUCCESSFUL",
+  "reason": "OK",
+  "data": {
+    "total": 7,
+    "list": [
+      {
+        "repeatDaysId": 1,
+        "repeatDaysCode": "1",
+        "repeatDaysDesc": "هر روز"
+      },
+      {
+        "repeatDaysId": 2,
+        "repeatDaysCode": "2",
+        "repeatDaysDesc": "دو روز يکبار"
+      },
+      {
+        "repeatDaysId": 3,
+        "repeatDaysCode": "7",
+        "repeatDaysDesc": "هر هفته"
+      },
+      {
+        "repeatDaysId": 4,
+        "repeatDaysCode": "14",
+        "repeatDaysDesc": "هر دو هفته"
+      },
+      {
+        "repeatDaysId": 5,
+        "repeatDaysCode": "30",
+        "repeatDaysDesc": "هر ماه"
+      },
+      {
+        "repeatDaysId": 6,
+        "repeatDaysCode": "90",
+        "repeatDaysDesc": "هر سه ماه"
+      },
+      {
+        "repeatDaysId": 7,
+        "repeatDaysCode": "180",
+        "repeatDaysDesc": "هر شش ماه"
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "resCode": 1,
+  "resMessage": "لیست نسخ بیمار با موفقیت دریافت شد.",
+  "info": {
+    "66438": {
+      "summary": {
+        "cpartnerFullName": "نام همکار",
+        "samadCode": "66438",
+        "creationDate": "1403/12/09 16:19:06",
+        "timeAgo": "2 ماه پیش ",
+        "moreInfo": null,
+        "src": "ERX",
+        "activeFrom": null,
+        "prsItemId": "22d8d3623cf9e93b149365355c37bdc905d94e666fc035f85971b8e203bad62a3f9ae36a39634728ab2f89af91b12f9e8b787f54858795de42fa527739897dbdc8871eceb77c070c0d149e75bb9ea714f60ef42d6fd7fe48"
+      },
+      "detail": [
+        {
+          "type": "deliver",
+          "moreInfo": null,
+          "prsType": "ویزیت",
+          "noSubs": 1,
+          "activeFrom": null
+        },
+        {
+          "type": "order",
+          "moreInfo": null,
+          "prsType": "تجویز 21 آزمایش",
+          "noSubs": 21,
+          "activeFrom": null
+        }
+      ]
+    },
+    "46789 [1404/02/10]": {
+      "summary": {
+        "cpartnerFullName": "نام همکار",
+        "samadCode": "46789",
+        "creationDate": "1404/02/10 15:01:23",
+        "timeAgo": "1 ثانیه پیش ",
+        "moreInfo": null,
+        "src": "NRX",
+        "activeFrom": "1404/02/10",
+        "prsItemId": "22d8d3623cf9e93b1ab7f99fcc007f4313ab2ee1e390979c025ffabda30fe5809d1ab2215a852f00936732ad75aff185a28ecb777fa906511f3b5bf684af363a7f10dd71b7babd447a33c65ac4667523802507bd933cbaff"
+      },
+      "detail": [
+        {
+          "type": "order",
+          "moreInfo": null,
+          "prsType": "تجویز 6 دارو",
+          "noSubs": 6,
+          "activeFrom": "1404/02/10"
+        }
+      ]
+    },
+    "85276": {
+      "summary": {
+        "cpartnerFullName": "نام همکار",
+        "samadCode": "85276",
+        "creationDate": "1403/09/10 16:33:00",
+        "timeAgo": "5 ماه پیش ",
+        "moreInfo": null,
+        "src": "ERX",
+        "activeFrom": null,
+        "prsItemId": "22d8d3623cf9e93b9bd385625de6c067ddeab6dd2bce7dad957524a4a3f7ffd779eda5666ff5a985d6018e0c1a737a936b8d6d67d02240f8ac7b7b1f334ec36d9b6b180c5d4297e0016c7bd575ee643b543bd9906f71168d"
+      },
+      "detail": [
+        {
+          "type": "order",
+          "moreInfo": null,
+          "prsType": "تجویز 1 دارو",
+          "noSubs": 1,
+          "activeFrom": null
+        },
+        {
+          "type": "deliver",
+          "moreInfo": null,
+          "prsType": "ویزیت",
+          "noSubs": 1,
+          "activeFrom": null
+        }
+      ]
+    },
+    "64125": {
+      "summary": {
+        "cpartnerFullName": "نام همکار",
+        "samadCode": "64125",
+        "creationDate": "1402/01/20 20:51:06",
+        "timeAgo": "2 سال پیش ",
+        "moreInfo": null,
+        "src": "ERX",
+        "activeFrom": null,
+        "prsItemId": "22d8d3623cf9e93bd2a32f1e38190946cb49838af54b3d56770de5348230f3016e6d7a35bf911170858d7c47885d840762c8582113eeb45a15ee9d4f9f08fb2738c07f2881c1ee15a5692db87eee735264658b467aaa6a5a"
+      },
+      "detail": [
+        {
+          "type": "order",
+          "moreInfo": null,
+          "prsType": "تجویز 17 آزمایش",
+          "noSubs": 17,
+          "activeFrom": null
+        },
+        {
+          "type": "deliver",
+          "moreInfo": null,
+          "prsType": "ویزیت",
+          "noSubs": 1,
+          "activeFrom": null
+        },
+        {
+          "type": "order",
+          "moreInfo": null,
+          "prsType": "تجویز 1 تصویربرداری",
+          "noSubs": 1,
+          "activeFrom": null
+        }
+      ]
+    },
+    "56902": {
+      "summary": {
+        "cpartnerFullName": "نام همکار",
+        "samadCode": "56902",
+        "creationDate": "1403/11/09 11:01:38",
+        "timeAgo": "3 ماه پیش ",
+        "moreInfo": null,
+        "src": "ERX",
+        "activeFrom": null,
+        "prsItemId": "22d8d3623cf9e93bfe4d27ca46a2d2331cfd3fff427aa48fadc39390128f9a138b890a249cb77762e3cc21b68878b4d9473ce6d433dc7c4d713433c89f5c7cb87d5e5b612601f60b5443dcca269dd564ab3653cd407e90d4"
+      },
+      "detail": [
+        {
+          "type": "order",
+          "moreInfo": null,
+          "prsType": "تجویز 2 دارو",
+          "noSubs": 2,
+          "activeFrom": null
+        },
+        {
+          "type": "deliver",
+          "moreInfo": null,
+          "prsType": "ویزیت",
+          "noSubs": 1,
+          "activeFrom": null
+        }
+      ]
+    },
+    "46789": {
+      "summary": {
+        "cpartnerFullName": "نام همکار",
+        "samadCode": "46789",
+        "creationDate": "1404/02/10 15:01:23",
+        "timeAgo": "1 ثانیه پیش ",
+        "moreInfo": null,
+        "src": "NRX",
+        "activeFrom": null,
+        "prsItemId": "22d8d3623cf9e93b1ab7f99fcc007f4313ab2ee1e390979c025ffabda30fe5809d1ab2215a852f00936732ad75aff185a28ecb777fa90651316949fbfcb9d10c65ae424c5dbf6b9f49af017171d42b9fd9566e08512606d6"
+      },
+      "detail": [
+        {
+          "type": "deliver",
+          "moreInfo": null,
+          "prsType": "ویزیت",
+          "noSubs": 1,
+          "activeFrom": null
+        }
+      ]
+    },
+    "05158": {
+      "summary": {
+        "cpartnerFullName": "نام همکار",
+        "samadCode": "05158",
+        "creationDate": "1403/05/30 13:48:20",
+        "timeAgo": "8 ماه پیش ",
+        "moreInfo": null,
+        "src": "ERX",
+        "activeFrom": null,
+        "prsItemId": "22d8d3623cf9e93b8139433228b919e6791a01d3b4b131ee7826aff335fe1ecdabf0a77d5897d1967201ce84faeeb3fb3ccafed5e7d9fce8c189b10c7973c32ce786956ad2b7111a77004a14ebd6ecea1c531bb8b1450070"
+      },
+      "detail": [
+        {
+          "type": "order",
+          "moreInfo": null,
+          "prsType": "تجویز 1 دارو",
+          "noSubs": 1,
+          "activeFrom": null
+        },
+        {
+          "type": "deliver",
+          "moreInfo": null,
+          "prsType": "ویزیت",
+          "noSubs": 1,
+          "activeFrom": null
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "noteDetailEprscs": [
+    {
+      "srvRem": 1,
+      "noteDetailsEprscId": 0,
+      "srvId": { "srvId": 83870, "srvType": {} },
+      "srvQty": 1,
+      "srvPrice": 1207280,
+      "noteHeadEprscId": 1,
+      "dateDo": "14030626",
+      "isOk": "0",
+      "drugInstId": 0,
+      "drugAmntId": 0,
+      "organDesc": "",
+      "illnessDesc": null,
+      "planDesc": null,
+      "organDetDesc": null,
+      "confirmStatusflag": null,
+      "toothId": "",
+      "status": "",
+      "statusstDate": "",
+      "visible": "",
+      "referenceStatus": 0
+    }
+  ],
+  "supplementaryInsurance": {},
+  "deserveInfo": {
+    "gender": "مرد",
+    "hasDesert": true,
+    "insuranceType": "اجباري",
+    "patientBirthDate": "1352",
+    "risuid": "0012600638",
+    "trackingCode": "5033440254"
+  },
+  "fName": "محسن",
+  "lName": "چيت سازان",
+  "mobile": "09120000000",
+  "birthDate": "1973-03-20T20:30:00.000Z",
+  "patient": "0072459158",
+  "insuranceState": "1",
+  "prescDate": "1724482245873",
+  "expireDate": "1729682245873",
+  "confirmStatus": "0",
+  "creatorType": "3",
+  "regStatus": "1",
+  "prescType": { "prescTypeId": 2 },
+  "comments": null,
+  "noteHeadEprscId": 6911453957,
+  "docClinic": null,
+  "isSpecialPatient": 1
+}

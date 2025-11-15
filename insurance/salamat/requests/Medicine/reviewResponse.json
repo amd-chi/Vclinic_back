@@ -1,0 +1,69 @@
+{
+  "resCode": 1,
+  "resMessage": "بررسی تجویز با موفقیت انجام شد.",
+  "info": {
+    "reCheckCode": "b8e990dcab93a1a7ba3fdd2b5570dd305deb80a91560da4e79994f9c5e0ddedc606e025552adc21030e4d5600c947f391d13b0c40b5550f9b7bcd3744d11a2c5bb910eb566f13cbc07bb87f58738c5a2978bf7f8bf65c8d79ac92fe9b35a13b9894453c2927977fd0d0237f376e88b5348823c88d6121f3392baa317635037d5eb35404a298537defdf490d17249bcbe5a6721890769a3%D8%B6%D9%A6%DC%B5%D9%A3%D9%A1d71c9bdc702fc68a1ddbfaafba0025c9af27851ae63ad6ffd100d3f39b4683810ea3503c1d9148057bca3414032879968ad08e16291f81ac004981d3501a33915e8312dfb81ad76621031c00770a8a62a293b1705159077df654f7b1dff118f2edce430889ebf07476e8a26904a6fc0918c5cd7dfae1ea6438012c2fc83d615ce4a3335590c7e2c6a054931c4b3e1f63d78c7052acbbb6baa027400841ed0cdd1f2c873fff6aa55987e0e7b739a1752991b8451b9a8bcd486edeff60b52c244f8b744f91ea4bfa7456a5b41941113e98e7925b7ae55f47f58827e6c9623dc",
+    "unit": "A",
+    "maxCoveredCount": "0",
+    "price": {
+      "calculated": {
+        "total": 0,
+        "orgShare": 70,
+        "increasedPrice": 0,
+        "maxSupportCoveredCount": 0,
+        "orgAmount": 0,
+        "yaranehPart": 0,
+        "sisadDahPart": 0,
+        "prefExchangePart": 0,
+        "prefExchangePrice": 0,
+        "maxPrefExchangeCoveredCount": 0,
+        "insuredAmount": 0,
+        "orgGovAmount": 0,
+        "maxNonGovCoverage": 0,
+        "nonGovSupportShare": 0,
+        "behzistiNonGovSupportShare": 0,
+        "mohmeNonGovSupportShare": 0,
+        "totalOrgAmount": 0
+      },
+      "tariffInfo": {
+        "basePrice": 0,
+        "maxCoveredCount": 0,
+        "maxSupportCoveredCount": 0,
+        "maxPrefExchangeCoveredCount": 0,
+        "ihioBasePrice": 0,
+        "orgShare": 70,
+        "yaranehPart": null,
+        "sisadDahPart": null,
+        "prefExchangePart": 0,
+        "prefExchangeBasePrice": 0,
+        "maxGovCoverage": 0,
+        "orgGovSupportShare": 0,
+        "mohmeGovShare": 0,
+        "maxNonGovCoverage": 0,
+        "nonGovSupportShare": 0,
+        "mohmeNonGovSupportShare": 0,
+        "supportBasePrice": 0,
+        "behzistiGovShare": 0,
+        "behzistiNonGovSupportShare": 0,
+        "hasSupportShare": false,
+        "initialPrice": 0,
+        "increasedPrice": 0,
+        "coveredBasePrice": 0
+      },
+      "resultCode": 1,
+      "resultMessage": "محاسبه قیمت با موفقیت انجام شد",
+      "maxCoveredCount": 0,
+      "maxPrefExchangeCoveredCount": 0
+    },
+    "borkenRules": [24],
+    "resultMessage": [
+      {
+        "type": "W",
+        "text": "[82-24]: پزشک محترم، جنابعالی با بیمه سلامت قرارداد ندارید و سهم سازمان از تعرفه ویزیت، برای شما محاسبه نمی شود. لیکن بیمه شده می تواند خدمات تجویزی شما را مطابق ضوابط، بیمه ای دریافت نماید."
+      }
+    ],
+    "infoMessage": [],
+    "isAllowed": true,
+    "type": "success"
+  }
+}

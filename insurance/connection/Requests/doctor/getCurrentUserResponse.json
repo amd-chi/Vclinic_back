@@ -1,0 +1,132 @@
+{
+  "status": 200,
+  "family": "SUCCESSFUL",
+  "reason": "OK",
+  "data": {
+    "entityId": "389932",
+    "firstName": "محسن",
+    "lastName": "چيت سازان",
+    "email": null,
+    "userName": null,
+    "gender": "m",
+    "nationalCode": "0072459158",
+    "mobile": "09121218701",
+    "birthDate": 116973000000,
+    "status": "Active",
+    "userType": null,
+    "dblinkId": 1371,
+    "docType": "1",
+    "docSpec": {
+      "specCode": "00100",
+      "specDesc": "دکتراي حرفه اي پزشکي",
+      "specGRP": "1",
+      "docComment": null,
+      "status": "1",
+      "statusstDate": "13900101",
+      "typeSpec": null,
+      "maxNormal": null,
+      "maxSpecial": null
+    },
+    "clinicAdminId": null,
+    "clinicCustNo": null,
+    "docId": "0000125265",
+    "isOutOfContract": null,
+    "inserted": "2",
+    "isAssignedForAutism": "0",
+    "isPilot": null,
+    "login": "0072459158",
+    "organizationKey": 2,
+    "accountStatus": "0",
+    "userDetail": {
+      "id": 1302489,
+      "oimUserId": "389932",
+      "geoUnit": {
+        "id": 130,
+        "code": "07",
+        "title": " تهران بزرگ",
+        "description": " تهران بزرگ",
+        "type": {
+          "id": 301,
+          "code": "02",
+          "title": "استان",
+          "parent": {
+            "id": 300,
+            "code": "01",
+            "title": "کشور",
+            "parent": null
+          }
+        },
+        "parent": {
+          "id": 1,
+          "code": "0001",
+          "title": "ايران",
+          "description": "ايران",
+          "type": {
+            "id": 300,
+            "code": "01",
+            "title": "کشور",
+            "parent": null
+          },
+          "parent": null,
+          "isDefault": null
+        },
+        "isDefault": null
+      },
+      "userDetailWidgets": null,
+      "userDetailDevices": null
+    },
+    "roles": [
+      {
+        "id": "25",
+        "roleName": "EPrescription Doctor",
+        "roleDisplayName": "EPrescription Doctor",
+        "roleUniqueName": "EPrescription Doctor",
+        "roleDescription": null,
+        "email": null,
+        "ownerKey": null,
+        "roleCategory": "3"
+      },
+      {
+        "id": "41",
+        "roleName": "Developers",
+        "roleDisplayName": "Developers",
+        "roleUniqueName": "Developers",
+        "roleDescription": null,
+        "email": null,
+        "ownerKey": null,
+        "roleCategory": "1"
+      },
+      {
+        "id": "1723",
+        "roleName": "EP_CLINIC_DOCTOR",
+        "roleDisplayName": "پزشک درمانگاه",
+        "roleUniqueName": "EP_CLINIC_DOCTOR",
+        "roleDescription": "پزشک درمانگاه",
+        "email": null,
+        "ownerKey": null,
+        "roleCategory": "3"
+      },
+      {
+        "id": "3",
+        "roleName": "ALL USERS",
+        "roleDisplayName": "ALL USERS",
+        "roleUniqueName": "ALL USERS",
+        "roleDescription": "Default role for all users",
+        "email": null,
+        "ownerKey": null,
+        "roleCategory": "2"
+      }
+    ],
+    "organization": {
+      "entityId": "2",
+      "children": null,
+      "organizationStatus": "Active",
+      "organizationName": "برون سازماني",
+      "organizationCustomerType": "System",
+      "parent": null,
+      "code": "request",
+      "organizationDetail": null
+    },
+    "systemAdmin": null
+  }
+}

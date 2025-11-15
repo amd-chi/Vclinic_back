@@ -1,0 +1,61 @@
+{
+  "noteDetailEprscs": [
+    {
+      "srvRem": 3,
+      "noteDetailsEprscId": 0,
+      "timesAday": {
+        "drugAmntId": "197",
+        "drugAmntConcept": "یک قاشق غذا خوری (10cc)-Syrup/Susp\n"
+      },
+      "drugInstruction": { "drugInstId": "66", "drugInstConcept": "هر 8 ساعت" },
+      "srvId": { "srvId": 3573, "srvType": { "srvType": "01" } },
+      "srvQty": 3,
+      "srvPrice": 300650,
+      "dose": "",
+      "doseCode": "",
+      "repeat": 2,
+      "noteHeadEprscId": 1,
+      "dateDo": "14031117",
+      "isOk": "0",
+      "drugInstId": 0,
+      "drugAmntId": 0,
+      "organDesc": "",
+      "illnessDesc": null,
+      "planDesc": null,
+      "organDetDesc": null,
+      "confirmStatusflag": null,
+      "toothId": "",
+      "status": "",
+      "statusstDate": "",
+      "visible": "",
+      "referenceStatus": 0
+    }
+  ],
+  "isSaveEprsc": "0",
+  "supplementaryInsurance": {},
+  "deserveInfo": {
+    "gender": "مرد",
+    "hasDesert": true,
+    "insuranceType": "اجباري",
+    "patientBirthDate": "1352",
+    "risuid": "0012600638",
+    "trackingCode": "5461621181"
+  },
+  "fName": "محسن",
+  "lName": "چيت سازان",
+  "mobile": "09120000000",
+  "birthDate": "1973-03-20T20:30:00.000Z",
+  "patient": "0072459158",
+  "insuranceState": "1",
+  "prescDate": "1733490192559",
+  "expireDate": "1738690192559",
+  "confirmStatus": "0",
+  "creatorType": "3",
+  "regStatus": "1",
+  "prescType": { "prescTypeId": 1 },
+  "comments": null,
+  "noteHeadEprscId": 0,
+  "isLMP": false,
+  "docClinic": null,
+  "isSpecialPatient": 1
+}

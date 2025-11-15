@@ -1,0 +1,31 @@
+{
+  "noteDetailEprscs": [],
+  "isSaveEprsc": "0",
+  "supplementaryInsurance": {},
+  "deserveInfo": {
+    "gender": "مرد",
+    "hasDesert": true,
+    "insuranceType": "اجباري",
+    "patientBirthDate": "1352",
+    "risuid": "0012600638",
+    "trackingCode": "4764990649"
+  },
+  "fName": "محسن",
+  "lName": "چيت سازان",
+  "mobile": "09120000000",
+  "birthDate": "1973-03-20T20:30:00.000Z",
+  "patient": "0072459158",
+  "insuranceState": "1",
+  "prescDate": "1718262015001",
+  "expireDate": "1723462015001",
+  "confirmStatus": "0",
+  "creatorType": "3",
+  "regStatus": "1",
+  "prescType": {
+    "prescTypeId": 3
+  },
+  "comments": "salam bar to",
+  "noteHeadEprscId": 0,
+  "docClinic": null,
+  "isSpecialPatient": 1
+}

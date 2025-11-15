@@ -1,0 +1,1594 @@
+{
+  "status": 200,
+  "family": "SUCCESSFUL",
+  "reason": "OK",
+  "data": {
+    "total": 198,
+    "list": [
+      {
+        "drugAmntId": 170,
+        "drugAmntCode": "170",
+        "drugAmntSumry": null,
+        "drugAmntLatin": "As Directed",
+        "drugAmntConcept": "طبق دستور",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 171,
+        "drugAmntCode": "171",
+        "drugAmntSumry": null,
+        "drugAmntLatin": "PRN",
+        "drugAmntConcept": "در صورت نیاز",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 172,
+        "drugAmntCode": "172",
+        "drugAmntSumry": "Tab/Cap\n",
+        "drugAmntLatin": "Quarter (1/4)",
+        "drugAmntConcept": "یک چهارم عدد-Tab/Cap\n-Tab/Cap\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 173,
+        "drugAmntCode": "173",
+        "drugAmntSumry": "Tab/Cap\n",
+        "drugAmntLatin": "Half (1/2)",
+        "drugAmntConcept": "نصف عدد-Tab/Cap\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 174,
+        "drugAmntCode": "174",
+        "drugAmntSumry": "Tab/Cap\n",
+        "drugAmntLatin": "1",
+        "drugAmntConcept": "یک عدد-Tab/Cap\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 175,
+        "drugAmntCode": "175",
+        "drugAmntSumry": "Tab/Cap\n",
+        "drugAmntLatin": "1.5",
+        "drugAmntConcept": "یک و نیم عدد-Tab/Cap\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 176,
+        "drugAmntCode": "176",
+        "drugAmntSumry": "Tab/Cap\n",
+        "drugAmntLatin": "2",
+        "drugAmntConcept": "دو عدد-Tab/Cap\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 177,
+        "drugAmntCode": "177",
+        "drugAmntSumry": "Tab/Cap\n",
+        "drugAmntLatin": "3",
+        "drugAmntConcept": "سه عدد-Tab/Cap\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 178,
+        "drugAmntCode": "178",
+        "drugAmntSumry": "Tab/Cap\n",
+        "drugAmntLatin": "4",
+        "drugAmntConcept": "چهار عدد-Tab/Cap\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 179,
+        "drugAmntCode": "179",
+        "drugAmntSumry": "INJ\n",
+        "drugAmntLatin": "Quarter (1/4)",
+        "drugAmntConcept": "یک چهارم -INJ\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 180,
+        "drugAmntCode": "180",
+        "drugAmntSumry": "INJ\n",
+        "drugAmntLatin": "1/3",
+        "drugAmntConcept": "یک سوم-INJ\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 181,
+        "drugAmntCode": "181",
+        "drugAmntSumry": "INJ\n",
+        "drugAmntLatin": "Half (1/2)",
+        "drugAmntConcept": "نصف -INJ\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 182,
+        "drugAmntCode": "182",
+        "drugAmntSumry": "INJ\n",
+        "drugAmntLatin": "2/3",
+        "drugAmntConcept": "دو سوم-INJ\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 183,
+        "drugAmntCode": "183",
+        "drugAmntSumry": "INJ\n",
+        "drugAmntLatin": "1",
+        "drugAmntConcept": "یک عدد-INJ\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 184,
+        "drugAmntCode": "184",
+        "drugAmntSumry": "INJ\n",
+        "drugAmntLatin": "1.5",
+        "drugAmntConcept": "یک و نیم عدد-INJ\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 185,
+        "drugAmntCode": "185",
+        "drugAmntSumry": "INJ\n",
+        "drugAmntLatin": "2",
+        "drugAmntConcept": "دو عدد-INJ\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 186,
+        "drugAmntCode": "186",
+        "drugAmntSumry": "Syrup/Susp\n",
+        "drugAmntLatin": "0.5 cc",
+        "drugAmntConcept": "نیم سی سی-Syrup/Susp\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 187,
+        "drugAmntCode": "187",
+        "drugAmntSumry": "Syrup/Susp\n",
+        "drugAmntLatin": "1 cc",
+        "drugAmntConcept": "یک سی سی-Syrup/Susp\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 188,
+        "drugAmntCode": "188",
+        "drugAmntSumry": "Syrup/Susp\n",
+        "drugAmntLatin": "1.5 cc",
+        "drugAmntConcept": "یک و نیم سی سی-Syrup/Susp\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 189,
+        "drugAmntCode": "189",
+        "drugAmntSumry": "Syrup/Susp\n",
+        "drugAmntLatin": "2 cc",
+        "drugAmntConcept": "دو سی سی-Syrup/Susp\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 190,
+        "drugAmntCode": "190",
+        "drugAmntSumry": "Syrup/Susp\n",
+        "drugAmntLatin": "2.5 cc (1 Tea Spoon)",
+        "drugAmntConcept": "یک قاشق چای خوری (2.5cc)-Syrup/Susp\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 191,
+        "drugAmntCode": "191",
+        "drugAmntSumry": "Syrup/Susp\n",
+        "drugAmntLatin": "3 cc",
+        "drugAmntConcept": "سه سی سی-Syrup/Susp\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 192,
+        "drugAmntCode": "192",
+        "drugAmntSumry": "Syrup/Susp\n",
+        "drugAmntLatin": "3.5 cc",
+        "drugAmntConcept": "سه و نیم سی سی-Syrup/Susp\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 193,
+        "drugAmntCode": "193",
+        "drugAmntSumry": "Syrup/Susp\n",
+        "drugAmntLatin": "4 cc",
+        "drugAmntConcept": "چهار سی سی-Syrup/Susp\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 194,
+        "drugAmntCode": "194",
+        "drugAmntSumry": "Syrup/Susp\n",
+        "drugAmntLatin": "4.5 cc",
+        "drugAmntConcept": "چهار و نیم سی سی-Syrup/Susp\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 195,
+        "drugAmntCode": "195",
+        "drugAmntSumry": "Syrup/Susp\n",
+        "drugAmntLatin": "5 cc (1 Jam Spoon)",
+        "drugAmntConcept": "یک قاشق مربا خوری (5cc)-Syrup/Susp\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 196,
+        "drugAmntCode": "196",
+        "drugAmntSumry": "Syrup/Susp\n",
+        "drugAmntLatin": "7.5 cc",
+        "drugAmntConcept": "هفت و نیم سی سی-Syrup/Susp\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 197,
+        "drugAmntCode": "197",
+        "drugAmntSumry": "Syrup/Susp\n",
+        "drugAmntLatin": "10 cc (1 Spoon)",
+        "drugAmntConcept": "یک قاشق غذا خوری (10cc)-Syrup/Susp\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 198,
+        "drugAmntCode": "198",
+        "drugAmntSumry": "Syrup/Susp\n",
+        "drugAmntLatin": "15 cc (1 Soup Spoon )",
+        "drugAmntConcept": "یک قاشق سوپ خوری (15cc)-Syrup/Susp\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 199,
+        "drugAmntCode": "199",
+        "drugAmntSumry": "Nasal Spray\n",
+        "drugAmntLatin": "1 Puff",
+        "drugAmntConcept": "1 پاف-Nasal Spray\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 200,
+        "drugAmntCode": "200",
+        "drugAmntSumry": "Nasal Spray\n",
+        "drugAmntLatin": "2 Puff",
+        "drugAmntConcept": "2 پاف-Nasal Spray\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 201,
+        "drugAmntCode": "201",
+        "drugAmntSumry": "Nasal Spray\n",
+        "drugAmntLatin": "3 Puff",
+        "drugAmntConcept": "3 پاف-Nasal Spray\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 202,
+        "drugAmntCode": "202",
+        "drugAmntSumry": "Nasal Spray\n",
+        "drugAmntLatin": "4 Puff",
+        "drugAmntConcept": "4 پاف-Nasal Spray\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 203,
+        "drugAmntCode": "203",
+        "drugAmntSumry": "Inhalation\n",
+        "drugAmntLatin": "1 Puff",
+        "drugAmntConcept": "1 پاف-Inhalation\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 204,
+        "drugAmntCode": "204",
+        "drugAmntSumry": "Inhalation\n",
+        "drugAmntLatin": "2 Puff",
+        "drugAmntConcept": "2 پاف-Inhalation\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 205,
+        "drugAmntCode": "205",
+        "drugAmntSumry": "Inhalation\n",
+        "drugAmntLatin": "3 Puff",
+        "drugAmntConcept": "3 پاف-Inhalation\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 206,
+        "drugAmntCode": "206",
+        "drugAmntSumry": "Inhalation\n",
+        "drugAmntLatin": "4 Puff",
+        "drugAmntConcept": "4 پاف-Inhalation\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 207,
+        "drugAmntCode": "207",
+        "drugAmntSumry": "Ear Drops",
+        "drugAmntLatin": "1 Drops",
+        "drugAmntConcept": "1 قطره-Ear Drops\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 208,
+        "drugAmntCode": "208",
+        "drugAmntSumry": "Ear Drops",
+        "drugAmntLatin": "2 Drops",
+        "drugAmntConcept": "2 قطره-Ear Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 209,
+        "drugAmntCode": "209",
+        "drugAmntSumry": "Ear Drops",
+        "drugAmntLatin": "3 Drops",
+        "drugAmntConcept": "3 قطره-Ear Drops\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 210,
+        "drugAmntCode": "210",
+        "drugAmntSumry": "Ear Drops",
+        "drugAmntLatin": "4 Drops",
+        "drugAmntConcept": "4 قطره-Ear Drops\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 211,
+        "drugAmntCode": "211",
+        "drugAmntSumry": "Ear Drops",
+        "drugAmntLatin": "5 Drops",
+        "drugAmntConcept": "5 قطره-Ear Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 212,
+        "drugAmntCode": "212",
+        "drugAmntSumry": "Ear Drops",
+        "drugAmntLatin": "6 Drops",
+        "drugAmntConcept": "6 قطره-Ear Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 213,
+        "drugAmntCode": "213",
+        "drugAmntSumry": "Ear Drops",
+        "drugAmntLatin": "7 Drops",
+        "drugAmntConcept": "7 قطره-Ear Drops\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 214,
+        "drugAmntCode": "214",
+        "drugAmntSumry": "Ear Drops",
+        "drugAmntLatin": "8 Drops",
+        "drugAmntConcept": "8 قطره-Ear Drops\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 215,
+        "drugAmntCode": "215",
+        "drugAmntSumry": "Ear Drops",
+        "drugAmntLatin": "9 Drops",
+        "drugAmntConcept": "9 قطره-Ear Drops\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 216,
+        "drugAmntCode": "216",
+        "drugAmntSumry": "Ear Drops",
+        "drugAmntLatin": "10 Drops",
+        "drugAmntConcept": "10 قطره-Ear Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 217,
+        "drugAmntCode": "217",
+        "drugAmntSumry": "Eye Drops",
+        "drugAmntLatin": "1 Drops",
+        "drugAmntConcept": "1 قطره-Eye Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 218,
+        "drugAmntCode": "218",
+        "drugAmntSumry": "Eye Drops",
+        "drugAmntLatin": "2 Drops",
+        "drugAmntConcept": "2 قطره-Eye Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 219,
+        "drugAmntCode": "219",
+        "drugAmntSumry": "Eye Drops",
+        "drugAmntLatin": "3 Drops",
+        "drugAmntConcept": "3 قطره-Eye Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 220,
+        "drugAmntCode": "220",
+        "drugAmntSumry": "Ear Drops",
+        "drugAmntLatin": "4 Drops",
+        "drugAmntConcept": "4 قطره-Eye Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 221,
+        "drugAmntCode": "221",
+        "drugAmntSumry": "Eye Drops",
+        "drugAmntLatin": "5 Drops",
+        "drugAmntConcept": "5 قطره-Eye Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 222,
+        "drugAmntCode": "222",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "1 Drops",
+        "drugAmntConcept": "1 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 223,
+        "drugAmntCode": "223",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "2 Drops",
+        "drugAmntConcept": "2 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 224,
+        "drugAmntCode": "224",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "3 Drops",
+        "drugAmntConcept": "3 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 225,
+        "drugAmntCode": "225",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "4 Drops",
+        "drugAmntConcept": "4 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 226,
+        "drugAmntCode": "226",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "5 Drops",
+        "drugAmntConcept": "5 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 227,
+        "drugAmntCode": "227",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "6 Drops",
+        "drugAmntConcept": "6 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 228,
+        "drugAmntCode": "228",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "7 Drops",
+        "drugAmntConcept": "7 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 229,
+        "drugAmntCode": "229",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "8 Drops",
+        "drugAmntConcept": "8 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 230,
+        "drugAmntCode": "230",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "9 Drops",
+        "drugAmntConcept": "9 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 231,
+        "drugAmntCode": "231",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "10 Drops",
+        "drugAmntConcept": "10 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 232,
+        "drugAmntCode": "232",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "11 Drops",
+        "drugAmntConcept": "11 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 233,
+        "drugAmntCode": "233",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "12 Drops",
+        "drugAmntConcept": "12 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 234,
+        "drugAmntCode": "234",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "13 Drops",
+        "drugAmntConcept": "13 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 235,
+        "drugAmntCode": "235",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "14 Drops",
+        "drugAmntConcept": "14 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 236,
+        "drugAmntCode": "236",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "15 Drops",
+        "drugAmntConcept": "15 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 237,
+        "drugAmntCode": "237",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "16 Drops",
+        "drugAmntConcept": "16 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 238,
+        "drugAmntCode": "238",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "17 Drops",
+        "drugAmntConcept": "17 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 239,
+        "drugAmntCode": "239",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "18 Drops",
+        "drugAmntConcept": "18 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 240,
+        "drugAmntCode": "240",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "19 Drops",
+        "drugAmntConcept": "19 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 241,
+        "drugAmntCode": "241",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "20 Drops",
+        "drugAmntConcept": "20 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 242,
+        "drugAmntCode": "242",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "21 Drops",
+        "drugAmntConcept": "21 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 243,
+        "drugAmntCode": "243",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "22 Drops",
+        "drugAmntConcept": "22 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 244,
+        "drugAmntCode": "244",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "23 Drops",
+        "drugAmntConcept": "23 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 245,
+        "drugAmntCode": "245",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "24 Drops",
+        "drugAmntConcept": "24 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 246,
+        "drugAmntCode": "246",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "25 Drops",
+        "drugAmntConcept": "25 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 247,
+        "drugAmntCode": "247",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "26 Drops",
+        "drugAmntConcept": "26 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 248,
+        "drugAmntCode": "248",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "27 Drops",
+        "drugAmntConcept": "27 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 249,
+        "drugAmntCode": "249",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "28 Drops",
+        "drugAmntConcept": "28 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 250,
+        "drugAmntCode": "250",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "29 Drops",
+        "drugAmntConcept": "29 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 251,
+        "drugAmntCode": "251",
+        "drugAmntSumry": "Oral Drops",
+        "drugAmntLatin": "30 Drops",
+        "drugAmntConcept": "30 قطره-Oral Drops",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 252,
+        "drugAmntCode": "252",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "5 IU",
+        "drugAmntConcept": "5 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 253,
+        "drugAmntCode": "253",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "6 IU",
+        "drugAmntConcept": "6 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 254,
+        "drugAmntCode": "254",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "7 IU",
+        "drugAmntConcept": "7 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 255,
+        "drugAmntCode": "255",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "8 IU",
+        "drugAmntConcept": "8 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 256,
+        "drugAmntCode": "256",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "9 IU",
+        "drugAmntConcept": "9 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 257,
+        "drugAmntCode": "257",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "10 IU",
+        "drugAmntConcept": "10 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 258,
+        "drugAmntCode": "258",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "11 IU",
+        "drugAmntConcept": "11 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 259,
+        "drugAmntCode": "259",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "12 IU",
+        "drugAmntConcept": "12 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 260,
+        "drugAmntCode": "260",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "13 IU",
+        "drugAmntConcept": "13 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 261,
+        "drugAmntCode": "261",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "14 IU",
+        "drugAmntConcept": "14 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 262,
+        "drugAmntCode": "262",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "15 IU",
+        "drugAmntConcept": "15 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 263,
+        "drugAmntCode": "263",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "16 IU",
+        "drugAmntConcept": "16 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 264,
+        "drugAmntCode": "264",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "17 IU",
+        "drugAmntConcept": "17 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 265,
+        "drugAmntCode": "265",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "18 IU",
+        "drugAmntConcept": "18 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 266,
+        "drugAmntCode": "266",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "19 IU",
+        "drugAmntConcept": "19 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 267,
+        "drugAmntCode": "267",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "20 IU",
+        "drugAmntConcept": "20 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 268,
+        "drugAmntCode": "268",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "21 IU",
+        "drugAmntConcept": "21 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 269,
+        "drugAmntCode": "269",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "22 IU",
+        "drugAmntConcept": "22 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 270,
+        "drugAmntCode": "270",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "23 IU",
+        "drugAmntConcept": "23 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 271,
+        "drugAmntCode": "271",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "24 IU",
+        "drugAmntConcept": "24 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 272,
+        "drugAmntCode": "272",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "25 IU",
+        "drugAmntConcept": "25 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 273,
+        "drugAmntCode": "273",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "26 IU",
+        "drugAmntConcept": "26 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 274,
+        "drugAmntCode": "274",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "27 IU",
+        "drugAmntConcept": "27 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 275,
+        "drugAmntCode": "275",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "28 IU",
+        "drugAmntConcept": "28 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 276,
+        "drugAmntCode": "276",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "29 IU",
+        "drugAmntConcept": "29 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 277,
+        "drugAmntCode": "277",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "30 IU",
+        "drugAmntConcept": "30 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 278,
+        "drugAmntCode": "278",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "31 IU",
+        "drugAmntConcept": "31 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 279,
+        "drugAmntCode": "279",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "32 IU",
+        "drugAmntConcept": "32 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 280,
+        "drugAmntCode": "280",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "33 IU",
+        "drugAmntConcept": "33 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 281,
+        "drugAmntCode": "281",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "34 IU",
+        "drugAmntConcept": "34 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 282,
+        "drugAmntCode": "282",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "35 IU",
+        "drugAmntConcept": "35 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 283,
+        "drugAmntCode": "283",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "36 IU",
+        "drugAmntConcept": "36 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 284,
+        "drugAmntCode": "284",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "37 IU",
+        "drugAmntConcept": "37 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 285,
+        "drugAmntCode": "285",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "38 IU",
+        "drugAmntConcept": "38 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 286,
+        "drugAmntCode": "286",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "39 IU",
+        "drugAmntConcept": "39 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 287,
+        "drugAmntCode": "287",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "40 IU",
+        "drugAmntConcept": "40 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 288,
+        "drugAmntCode": "288",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "41 IU",
+        "drugAmntConcept": "41 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 289,
+        "drugAmntCode": "289",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "42 IU",
+        "drugAmntConcept": "42 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 290,
+        "drugAmntCode": "290",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "43 IU",
+        "drugAmntConcept": "43 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 291,
+        "drugAmntCode": "291",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "44 IU",
+        "drugAmntConcept": "44 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 292,
+        "drugAmntCode": "292",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "45 IU",
+        "drugAmntConcept": "45 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 293,
+        "drugAmntCode": "293",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "46 IU",
+        "drugAmntConcept": "46 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 294,
+        "drugAmntCode": "294",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "47 IU",
+        "drugAmntConcept": "47 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 295,
+        "drugAmntCode": "295",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "48 IU",
+        "drugAmntConcept": "48 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 296,
+        "drugAmntCode": "296",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "49 IU",
+        "drugAmntConcept": "49 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 297,
+        "drugAmntCode": "297",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "50 IU",
+        "drugAmntConcept": "50 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 298,
+        "drugAmntCode": "298",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "51 IU",
+        "drugAmntConcept": "51 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 299,
+        "drugAmntCode": "299",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "52 IU",
+        "drugAmntConcept": "52 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 300,
+        "drugAmntCode": "300",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "53 IU",
+        "drugAmntConcept": "53 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 301,
+        "drugAmntCode": "301",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "54 IU",
+        "drugAmntConcept": "54 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 302,
+        "drugAmntCode": "302",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "55 IU",
+        "drugAmntConcept": "55 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 303,
+        "drugAmntCode": "303",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "56 IU",
+        "drugAmntConcept": "56 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 304,
+        "drugAmntCode": "304",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "57 IU",
+        "drugAmntConcept": "57 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 305,
+        "drugAmntCode": "305",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "58 IU",
+        "drugAmntConcept": "58 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 306,
+        "drugAmntCode": "306",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "59 IU",
+        "drugAmntConcept": "59 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 307,
+        "drugAmntCode": "307",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "60 IU",
+        "drugAmntConcept": "60 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 308,
+        "drugAmntCode": "308",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "61 IU",
+        "drugAmntConcept": "61 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 309,
+        "drugAmntCode": "309",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "62 IU",
+        "drugAmntConcept": "62 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 310,
+        "drugAmntCode": "310",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "63 IU",
+        "drugAmntConcept": "63 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 311,
+        "drugAmntCode": "311",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "64 IU",
+        "drugAmntConcept": "64 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 312,
+        "drugAmntCode": "312",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "65 IU",
+        "drugAmntConcept": "65 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 313,
+        "drugAmntCode": "313",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "66 IU",
+        "drugAmntConcept": "66 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 314,
+        "drugAmntCode": "314",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "67 IU",
+        "drugAmntConcept": "67 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 315,
+        "drugAmntCode": "315",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "68 IU",
+        "drugAmntConcept": "68 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 316,
+        "drugAmntCode": "316",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "69 IU",
+        "drugAmntConcept": "69 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 317,
+        "drugAmntCode": "317",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "70 IU",
+        "drugAmntConcept": "70 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 318,
+        "drugAmntCode": "318",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "71 IU",
+        "drugAmntConcept": "71 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 319,
+        "drugAmntCode": "319",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "72 IU",
+        "drugAmntConcept": "72 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 320,
+        "drugAmntCode": "320",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "73 IU",
+        "drugAmntConcept": "73 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 321,
+        "drugAmntCode": "321",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "74 IU",
+        "drugAmntConcept": "74 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 322,
+        "drugAmntCode": "322",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "75 IU",
+        "drugAmntConcept": "75 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 323,
+        "drugAmntCode": "323",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "76 IU",
+        "drugAmntConcept": "76 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 324,
+        "drugAmntCode": "324",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "77 IU",
+        "drugAmntConcept": "77 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 325,
+        "drugAmntCode": "325",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "78 IU",
+        "drugAmntConcept": "78 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 326,
+        "drugAmntCode": "326",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "79 IU",
+        "drugAmntConcept": "79 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 327,
+        "drugAmntCode": "327",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "80 IU",
+        "drugAmntConcept": "80 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 328,
+        "drugAmntCode": "328",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "81 IU",
+        "drugAmntConcept": "81 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 329,
+        "drugAmntCode": "329",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "82 IU",
+        "drugAmntConcept": "82 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 330,
+        "drugAmntCode": "330",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "83 IU",
+        "drugAmntConcept": "83 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 331,
+        "drugAmntCode": "331",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "84 IU",
+        "drugAmntConcept": "84 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 332,
+        "drugAmntCode": "332",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "85 IU",
+        "drugAmntConcept": "85 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 333,
+        "drugAmntCode": "333",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "86 IU",
+        "drugAmntConcept": "86 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 334,
+        "drugAmntCode": "334",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "87 IU",
+        "drugAmntConcept": "87 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 335,
+        "drugAmntCode": "335",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "88 IU",
+        "drugAmntConcept": "88 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 336,
+        "drugAmntCode": "336",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "89 IU",
+        "drugAmntConcept": "89 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 337,
+        "drugAmntCode": "337",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "90 IU",
+        "drugAmntConcept": "90 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 338,
+        "drugAmntCode": "338",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "91 IU",
+        "drugAmntConcept": "91 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 339,
+        "drugAmntCode": "339",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "92 IU",
+        "drugAmntConcept": "92 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 340,
+        "drugAmntCode": "340",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "93 IU",
+        "drugAmntConcept": "93 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 341,
+        "drugAmntCode": "341",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "94 IU",
+        "drugAmntConcept": "94 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 342,
+        "drugAmntCode": "342",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "95 IU",
+        "drugAmntConcept": "95 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 343,
+        "drugAmntCode": "343",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "96 IU",
+        "drugAmntConcept": "96 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 344,
+        "drugAmntCode": "344",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "97 IU",
+        "drugAmntConcept": "97 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 345,
+        "drugAmntCode": "345",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "98 IU",
+        "drugAmntConcept": "98 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 346,
+        "drugAmntCode": "346",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "99 IU",
+        "drugAmntConcept": "99 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 347,
+        "drugAmntCode": "347",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "100 IU",
+        "drugAmntConcept": "100 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 348,
+        "drugAmntCode": "348",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "101 IU",
+        "drugAmntConcept": "101 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 349,
+        "drugAmntCode": "349",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "102 IU",
+        "drugAmntConcept": "102 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 350,
+        "drugAmntCode": "350",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "103 IU",
+        "drugAmntConcept": "103 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 351,
+        "drugAmntCode": "351",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "104 IU",
+        "drugAmntConcept": "104 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 352,
+        "drugAmntCode": "352",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "105 IU",
+        "drugAmntConcept": "105 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 353,
+        "drugAmntCode": "353",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "106 IU",
+        "drugAmntConcept": "106 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 354,
+        "drugAmntCode": "354",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "107 IU",
+        "drugAmntConcept": "107 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 355,
+        "drugAmntCode": "355",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "108 IU",
+        "drugAmntConcept": "108 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 356,
+        "drugAmntCode": "356",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "109 IU",
+        "drugAmntConcept": "109 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 357,
+        "drugAmntCode": "357",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "110 IU",
+        "drugAmntConcept": "110 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 358,
+        "drugAmntCode": "358",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "111 IU",
+        "drugAmntConcept": "111 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 359,
+        "drugAmntCode": "359",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "112 IU",
+        "drugAmntConcept": "112 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 360,
+        "drugAmntCode": "360",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "113 IU",
+        "drugAmntConcept": "113 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 361,
+        "drugAmntCode": "361",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "114 IU",
+        "drugAmntConcept": "114 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 362,
+        "drugAmntCode": "362",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "115 IU",
+        "drugAmntConcept": "115 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 363,
+        "drugAmntCode": "363",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "116 IU",
+        "drugAmntConcept": "116 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 364,
+        "drugAmntCode": "364",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "117 IU",
+        "drugAmntConcept": "117 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 365,
+        "drugAmntCode": "365",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "118 IU",
+        "drugAmntConcept": "118 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 366,
+        "drugAmntCode": "366",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "119 IU",
+        "drugAmntConcept": "119 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      },
+      {
+        "drugAmntId": 367,
+        "drugAmntCode": "367",
+        "drugAmntSumry": "Insulin Vial\u0026amp;pen\n",
+        "drugAmntLatin": "120 IU",
+        "drugAmntConcept": "120 واحد-Insulin Vial\u0026amp;pen\n",
+        "visibled": "1"
+      }
+    ]
+  }
+}

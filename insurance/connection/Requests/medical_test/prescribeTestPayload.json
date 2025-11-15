@@ -1,0 +1,52 @@
+{
+  "noteDetailEprscs": [
+    {
+      "srvRem": 1,
+      "noteDetailsEprscId": 0,
+      "srvId": { "srvId": 82588, "srvType": {} },
+      "srvQty": 1,
+      "srvPrice": 41315,
+      "noteHeadEprscId": 1,
+      "dateDo": "14030410",
+      "isOk": "0",
+      "drugInstId": 0,
+      "drugAmntId": 0,
+      "organDesc": "",
+      "illnessDesc": null,
+      "planDesc": null,
+      "organDetDesc": null,
+      "confirmStatusflag": null,
+      "toothId": "",
+      "status": "",
+      "statusstDate": "",
+      "visible": "",
+      "referenceStatus": 0
+    }
+  ],
+  "isSaveEprsc": "0",
+  "supplementaryInsurance": {},
+  "deserveInfo": {
+    "gender": "زن",
+    "hasDesert": true,
+    "insuranceType": "اجباري",
+    "patientBirthDate": "1390",
+    "risuid": "0o14551557",
+    "trackingCode": "4815144498"
+  },
+  "fName": "ضحا",
+  "lName": "چيت سازان",
+  "mobile": "09120000000",
+  "birthDate": "2011-03-20T20:30:00.000Z",
+  "patient": "0442005921",
+  "insuranceState": "1",
+  "prescDate": "1719643297531",
+  "expireDate": "1724843297531",
+  "confirmStatus": "0",
+  "creatorType": "3",
+  "regStatus": "1",
+  "prescType": { "prescTypeId": 2 },
+  "comments": null,
+  "noteHeadEprscId": 0,
+  "docClinic": null,
+  "isSpecialPatient": 1
+}

@@ -1,0 +1,73 @@
+{
+  "status": 200,
+  "family": "SUCCESSFUL",
+  "reason": "OK",
+  "data": {
+    "total": 7,
+    "list": [
+      {
+        "srvType": "01",
+        "srvTypeDes": "دارويي",
+        "status": "1",
+        "statusstDate": "13940101",
+        "custType": "3",
+        "prescTypeId": 1,
+        "headExpireDate": 62
+      },
+      {
+        "srvType": "02",
+        "srvTypeDes": "آزمايشگاه",
+        "status": "1",
+        "statusstDate": "13940101",
+        "custType": "4",
+        "prescTypeId": 2,
+        "headExpireDate": 62
+      },
+      {
+        "srvType": "03",
+        "srvTypeDes": "راديولوژي",
+        "status": "1",
+        "statusstDate": "13940101",
+        "custType": "4",
+        "prescTypeId": 2,
+        "headExpireDate": 62
+      },
+      {
+        "srvType": "04",
+        "srvTypeDes": "سونوگرافي",
+        "status": "1",
+        "statusstDate": "13940101",
+        "custType": "4",
+        "prescTypeId": 2,
+        "headExpireDate": 62
+      },
+      {
+        "srvType": "05",
+        "srvTypeDes": "سي تي اسکن",
+        "status": "1",
+        "statusstDate": "13940101",
+        "custType": "4",
+        "prescTypeId": 2,
+        "headExpireDate": 180
+      },
+      {
+        "srvType": "06",
+        "srvTypeDes": "ام آر آي",
+        "status": "1",
+        "statusstDate": "13940101",
+        "custType": "4",
+        "prescTypeId": 2,
+        "headExpireDate": 180
+      },
+      {
+        "srvType": "13",
+        "srvTypeDes": "فيزيوتراپي",
+        "status": "1",
+        "statusstDate": "13940101",
+        "custType": "4",
+        "prescTypeId": 2,
+        "headExpireDate": 62
+      }
+    ]
+  }
+}
